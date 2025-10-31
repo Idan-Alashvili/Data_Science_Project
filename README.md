@@ -5,7 +5,7 @@ This project aims to predict the league table of a handball season based on play
 
 ## Project Structure
 
-- **Data/**: Contains all the databases used in the project.
+- **Data/**: Contains all the databases used in the project, each in their relater folder.
   - `modified_field_player_detail_2020_2021.csv`
   - `modified_field_player_detail_2021_2022.csv`
   - `modified_field_player_detail_2022_2023.csv`
@@ -74,5 +74,5 @@ This project aims to predict the league table of a handball season based on play
 
 ## Acknowledgments
 
-- Thanks to the contributors and sources from which the data was obtained.
+- Thanks to the Handball Bundesliga Federation for providing us the data via their Website.
 
